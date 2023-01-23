@@ -59,7 +59,7 @@ ___
   - dayjs
   - zod
 
-  - #### Dependências de desenvolvimento
+- #### Dependências de desenvolvimento
 
   - Typescript
   - tsx
