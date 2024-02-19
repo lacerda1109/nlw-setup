@@ -1,6 +1,6 @@
 <h1 align="center">Next Level Week - Setup</h1>
 
-<p align="center">Conteúdos produzidos ao participar do evento Next Level Week - Setup, da Rocketseat. Nele desenvolvemos uma aplicação de controle de hábitos, a partir de um módulo de <b>back-end</b>, e com as versões <b>web</b> e <b>mobile</b> no front-end.</p>
+<p align="center">Conteúdos produzidos ao participar do evento Next Level Week - Setup, da Rocketseat. Nele desenvolvemos uma aplicação de controle de hábitos, a partir de um módulo de <b>back-end</b>, e com as versões <b>web</b> e <b>mobile</b> no front-end.</p> 
 
 ![front-web](./assets/front-web.png)
 
